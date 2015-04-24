@@ -1,3 +1,5 @@
+'use strict';
+
 var Parent = React.createClass({displayName: "Parent",
     render: function() {
         return (
